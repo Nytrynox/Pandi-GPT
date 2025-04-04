@@ -117,8 +117,8 @@ We welcome contributions! Follow these steps:
 ---
 
 ## 🎉 **Let's Connect!**
-🔗 **GitHub:** (https://github.com/Nytrynox)  
-💬 **LinkedIn:** ("https://www.linkedin.com/in/karthik129259/")
+🔗 **GitHub:** https://github.com/Nytrynox
+💬 **LinkedIn:** https://www.linkedin.com/in/karthik129259/
 
 ---
 
