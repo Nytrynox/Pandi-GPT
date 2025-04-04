@@ -85,12 +85,6 @@ cd Pandi-GPT
 3️⃣ AI will generate responses based on your queries 💡  
 
 ---
-
-## 📸 **Screenshots**
-| 🌟 Chat Interface | ⚡ Backend Server |
-|------------------|----------------|
-| ![Chat UI](assets/chat-ui.png) | ![Server Running](assets/server.png) |
-
 ---
 
 ## 🚀 **Deployment**
